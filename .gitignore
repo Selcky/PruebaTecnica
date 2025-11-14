@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS ###
+Thumbs.db
+desktop.ini
+
+### Maven / IntelliJ / Gradle extras ###
+/.idea/
+*.iml
+out/
+target/
+
